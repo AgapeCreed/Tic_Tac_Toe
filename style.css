@@ -137,12 +137,3 @@ html {
 .popup.hide {
 	display: none;
 }
-
-/* display: flex;
-	flex-direction: column;
-	color: whitesmoke;
-	justify-content: center;
-	align-content: center;
-	align-items: center;
-	font-size: 3vmin; 
-*/
